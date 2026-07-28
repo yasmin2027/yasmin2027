@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Machine Learning.<br>🎯 Goals: <br>Working as AI Engineer after graduation.<br>🎲 Fun fact:<br>love games</p>
+<p align="left">📚 I'm currently learning Machine Learning.<br>🎯 Goals: <br>Working as AI Engineer after graduation.<br>
 
 ###
 
